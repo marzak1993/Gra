@@ -9,3 +9,12 @@ Mechanika gry
 
 Przemierzając ekran gracz musi unikać losowo generowanych przeszkód. Gra kończy się po zetknięciu z przeszkodą, bądź uderzeniem w sufit. Celem gracza jest osiągnięcie jak największej ilości punktów. Sposobem interakcji użytkownika jest jeden przycisk odpowiadający za unoszenie się naszej postaci co jest sporym utrudnieniem.
 
+
+Plan działania.
+
+Tydzień 1. Praca z poradnikiem. 
+Tydzień 2. Praca z poradnikiem. 
+Tydzień 3. Praca z poradnikiem. 
+Tydzień 4. Modyfikacja utworzonej gry. 
+Tydzień 5. Dodanie grafiki. 
+Tydzień 6. Naprawa błędów. 
