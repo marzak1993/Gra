@@ -13,10 +13,15 @@ Przemierzając ekran gracz musi unikać losowo generowanych przeszkód. Gra koń
 Plan działania.
 
 Tydzień 1. Praca z poradnikiem. 
+
 Tydzień 2. Praca z poradnikiem. 
+
 Tydzień 3. Praca z poradnikiem. 
+
 Tydzień 4. Modyfikacja utworzonej gry. 
+
 Tydzień 5. Dodanie grafiki. 
+
 Tydzień 6. Naprawa błędów. 
 
 
